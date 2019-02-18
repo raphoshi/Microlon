@@ -1,3 +1,39 @@
-ajgajglçkajglkzfnhn,zxcvb
-zcxbm,nzcbn,mzxncm,bznxmcwarejuij
-agakjfhiawujh90ajgh
+Nome = José => Informações
+Nome2 = F3B78A => Dados 
+Dados são coisas que você não sabe o que significa ou não foi especificada.
+nome = 'josé' => jogado para a memória ram (nome faz associação ao endereço) apostrofe é travado
+nome = "josé" => aspas é variavel
+
+Números e operações matemáticas
+-tipos de dados
+-funções e operações com números
+-aritmética
+-operadores
+
+python possui 2 tipos de números principais
+->int = números inteiros, não fragmentados, negativo ou positivo
+->float = número flutuante, quebrados
+
+não precisa atribuir variáveis. Ele é dinamico em tipagem, ele já sabe o que é.
+
+Tipo de dado
+ função type()
+
+   op	significado		exemplo			
+    +	soma			2+2 -> 4
+    -	subtração		3-2 -> 1
+    *	multiplicação		2*2 -> 4
+    /	divisão			10/2 -> 5
+    %	módulo			5%2 -> 1 
+   **	potência		4**2 ->16
+  int() conversão (int)		int(3.2) -> 3
+float() conversão (float)	float(2) ->2.0
+
+Tabela de op. relacionais
+op		significado
+==		igual
+!=		desigual
+>		maior que
+<		menor que
+>=		maior ou igual
+<=		menor ou igual

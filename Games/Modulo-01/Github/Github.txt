@@ -1,0 +1,13 @@
+Git
+-Criar conta
+	-Repositório
+	-Clonar Projeto
+
+git clone https
+://github.com/raphoshi/Microlon
+git config --list
+git config --global user.name "usuario"
+git config --global user.email "email"
+git init
+git add -all (para adicionar tudo)
+git add "nome"

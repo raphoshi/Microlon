@@ -1,0 +1,19 @@
+Módulo 1
+-Documentação (isso que me auxilia para revisar e trabalhar com isso)
+	-python
+	-html -> Dentro do python
+	-xml -> Dentro do python
+	-pdf
+-Controle de versão - git (plataforma aberta a comunidade para resolver problemas) (mais famoso: github)
+	Etapas de um programa -> Alpha 2 -> Alpha 1 -> Beta 2 -> Beta 1 -> Release 2 -> Release 1 ->> Final
+-Lógica orientada a objetos
+-Estrutura de dados
+Jupyter
+  Instalação
+    site: anaconda.com
+	python 3
+
+C:\Microlon\Games\Módulo-01
+
+https://packagecontrol.io/installation#st3
+https://github.com/raphoshi/MicroLon-Games-Modulo-01-Aula-01
