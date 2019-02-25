@@ -1,5 +1,11 @@
-kshfjklxhgfjlkxhjg
-nxvmxvnkletriosje5y
-satjdyrtidpoykjuopdjkd
-satjdyrtidpoykjuopdjkdsatjdyrtidpoykjuopdjkd
-satjdyrtidpoykjuopdjkd
+Aula 07
+Loop for
+- Valida cada item e muma série de valores
+For item in serie-de-itens
+Executa comandos
+Podemos utilizar o loop for em objetos sequenciais como:
+- Strings
+- Listas
+- Tuplas
+- Elementos de dicionario
+- Arquivos
